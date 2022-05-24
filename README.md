@@ -1,2 +1,1 @@
-# N-ary-Tree-Preorder-Traversal
-Stack Tree DepthFirstSearch
+https://leetcode.com/problems/n-ary-tree-preorder-traversal
